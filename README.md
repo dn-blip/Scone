@@ -1,5 +1,5 @@
 # Scone
-A command-line, (soon)cross-platform compiler for Scratch programs.
+A command-line, (soon) cross-platform compiler for Scratch programs.
 <hr>
 
 ## Overview
